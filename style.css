@@ -79,3 +79,52 @@
     font-weight: 400;
     font-size: 16px;
 }
+
+
+
+.section {
+    min-height: 647px;
+    height: 100%;
+    background: url(img/fon.png);
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+
+.left__link {
+    padding-top:317px;
+}
+
+.right__link {
+    padding-top:317px;
+}
+
+
+.section__block {
+    float: right;
+    padding-top: 151px;
+}
+
+.section__text {
+    width: 584px;
+    height: 106px;
+    text-align: justify;
+    font-weight: 400;
+    font-size: 32px;
+}
+
+
+.section__button {
+    width: 284px;
+    height: 74px;
+    background: #B4141B;
+}
+
+.section__button-link {
+    font-weight: 700;
+    font-size: 24px;
+    color: #fff;
+    text-decoration: none;
+    padding-top:100px;
+}
