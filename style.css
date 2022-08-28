@@ -34,3 +34,48 @@
     font-size: 12px;
     color: #fff;
 }
+
+
+.nav-2 {
+    min-height: 119px;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-2__logo {
+    padding-top: 20px;
+}
+
+.ul {
+    list-style-type: none;
+    display: flex;
+    column-gap: 16px;
+    padding-top: 52px;
+}
+
+.link {
+    text-decoration: none;
+    color: #000;
+    font-size: 14px;
+}
+
+.link:hover {
+    font-weight: 700;
+}
+
+.nav-2__contant {
+    display: flex;
+    padding-top: 40px;
+}
+
+.txt__txt {
+    font-weight: 400;
+    font-size: 14px;
+    color: #7D7D7D;
+}
+
+.phone-number {
+    font-weight: 400;
+    font-size: 16px;
+}
