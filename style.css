@@ -240,3 +240,151 @@
     padding-top: 40px;
     padding-right: 22px;
 }
+
+.section2__block-1{
+    max-width: 877px;
+    width: 100%;
+    min-height: 504px;
+    height: 100%;
+    background: url(img/section__img-fon.png) no-repeat;
+}
+
+.section2__block1-box {
+    max-width: 474px;
+    width: 100%;
+    min-height: 288px;
+    height: 100%;
+    float: right;
+}
+
+.border {
+    max-width: 474px;
+    width: 100%;
+    min-height: 96px;
+    height: 100%;
+    border: 1px solid #fff;
+    background: rgba(255, 255, 255, 0.9);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.border2 {
+    max-width: 474px;
+    width: 100%;
+    min-height: 96px;
+    height: 100%;
+    border: 1px solid #0E77AF;
+    background: #0E77AF;
+    opacity: 0.9;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 21px;
+}
+
+
+.border3 {
+    max-width: 474px;
+    width: 100%;
+    min-height: 96px;
+    height: 100%;
+    border: 1px solid #0E77AF;
+    background: #0E77AF;
+    opacity: 0.9;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 21px;
+}
+
+
+.border-link {
+    font-weight: 700;
+    font-size: 22px;
+    color: #000;
+    text-decoration: none;
+    padding-left: 34px;
+}
+
+
+.border2-link {
+    font-weight: 700;
+    font-size: 22px;
+    color: #fff;
+    text-decoration: none;
+    padding-left: 34px;
+}
+
+
+.border3-link {
+    font-weight: 700;
+    font-size: 22px;
+    color: #fff;
+    text-decoration: none;
+    padding-left: 34px;
+}
+
+
+
+.main__section-2 {
+    display: flex;
+}
+
+
+
+.section2__block-2 {
+    max-width: 787px;
+    width: 100%;
+    min-height: 504px;
+    height: 100%;
+    background: linear-gradient(180deg, #FCFCFC 0%, #F8F8F8 100%);
+}
+
+
+.section2__block2-box {
+    padding: 77px 260px 57px 53px;
+}
+
+
+.block2__title {
+    font-weight: 700;
+    font-size: 32px;
+    color: #000;
+}
+
+
+.block2__text {
+    font-weight: 400;
+    font-size: 24px;
+    color: #9B9B9B;
+    padding-top: 10px;
+}
+
+
+
+.block2__ul {
+    font-weight: 400;
+    font-size: 16px;
+    padding-top: 38px;
+}
+
+
+.block2__button {
+    max-width: 104px;
+    width: 100%;
+    min-height: 35px;
+    background: #B4141B;
+    border: #B4141B;
+    margin-top: 36px;
+}
+
+
+.block2__button-link {
+    color: #fff;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 12px;
+}
+
+
